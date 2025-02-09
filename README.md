@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nmahngar
-- 👀 I’m interested in ... robotics
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... my robotics team
+- 👀 I’m interested in things
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on something
 - 📫 How to reach me ... my email
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... idk
+- 😄 Pronouns: imagine
+- ⚡ Fun fact: ... i am elevator
 
 <!---
 nmahngar/nmahngar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
